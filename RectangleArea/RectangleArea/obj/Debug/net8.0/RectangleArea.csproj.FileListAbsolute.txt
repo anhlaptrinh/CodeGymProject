@@ -1,0 +1,15 @@
+D:\CodeGym\CodeGymProject\RectangleArea\RectangleArea\bin\Debug\net8.0\RectangleArea.exe
+D:\CodeGym\CodeGymProject\RectangleArea\RectangleArea\bin\Debug\net8.0\RectangleArea.deps.json
+D:\CodeGym\CodeGymProject\RectangleArea\RectangleArea\bin\Debug\net8.0\RectangleArea.runtimeconfig.json
+D:\CodeGym\CodeGymProject\RectangleArea\RectangleArea\bin\Debug\net8.0\RectangleArea.dll
+D:\CodeGym\CodeGymProject\RectangleArea\RectangleArea\bin\Debug\net8.0\RectangleArea.pdb
+D:\CodeGym\CodeGymProject\RectangleArea\RectangleArea\obj\Debug\net8.0\RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeGym\CodeGymProject\RectangleArea\RectangleArea\obj\Debug\net8.0\RectangleArea.AssemblyInfoInputs.cache
+D:\CodeGym\CodeGymProject\RectangleArea\RectangleArea\obj\Debug\net8.0\RectangleArea.AssemblyInfo.cs
+D:\CodeGym\CodeGymProject\RectangleArea\RectangleArea\obj\Debug\net8.0\RectangleArea.csproj.CoreCompileInputs.cache
+D:\CodeGym\CodeGymProject\RectangleArea\RectangleArea\obj\Debug\net8.0\RectangleArea.sourcelink.json
+D:\CodeGym\CodeGymProject\RectangleArea\RectangleArea\obj\Debug\net8.0\RectangleArea.dll
+D:\CodeGym\CodeGymProject\RectangleArea\RectangleArea\obj\Debug\net8.0\refint\RectangleArea.dll
+D:\CodeGym\CodeGymProject\RectangleArea\RectangleArea\obj\Debug\net8.0\RectangleArea.pdb
+D:\CodeGym\CodeGymProject\RectangleArea\RectangleArea\obj\Debug\net8.0\RectangleArea.genruntimeconfig.cache
+D:\CodeGym\CodeGymProject\RectangleArea\RectangleArea\obj\Debug\net8.0\ref\RectangleArea.dll
