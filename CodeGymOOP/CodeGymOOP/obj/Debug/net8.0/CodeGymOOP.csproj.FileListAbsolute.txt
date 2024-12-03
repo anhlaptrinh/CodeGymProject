@@ -1,0 +1,15 @@
+D:\CodeGym\CodeGymProject\CodeGymOOP\CodeGymOOP\bin\Debug\net8.0\CodeGymOOP.exe
+D:\CodeGym\CodeGymProject\CodeGymOOP\CodeGymOOP\bin\Debug\net8.0\CodeGymOOP.deps.json
+D:\CodeGym\CodeGymProject\CodeGymOOP\CodeGymOOP\bin\Debug\net8.0\CodeGymOOP.runtimeconfig.json
+D:\CodeGym\CodeGymProject\CodeGymOOP\CodeGymOOP\bin\Debug\net8.0\CodeGymOOP.dll
+D:\CodeGym\CodeGymProject\CodeGymOOP\CodeGymOOP\bin\Debug\net8.0\CodeGymOOP.pdb
+D:\CodeGym\CodeGymProject\CodeGymOOP\CodeGymOOP\obj\Debug\net8.0\CodeGymOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeGym\CodeGymProject\CodeGymOOP\CodeGymOOP\obj\Debug\net8.0\CodeGymOOP.AssemblyInfoInputs.cache
+D:\CodeGym\CodeGymProject\CodeGymOOP\CodeGymOOP\obj\Debug\net8.0\CodeGymOOP.AssemblyInfo.cs
+D:\CodeGym\CodeGymProject\CodeGymOOP\CodeGymOOP\obj\Debug\net8.0\CodeGymOOP.csproj.CoreCompileInputs.cache
+D:\CodeGym\CodeGymProject\CodeGymOOP\CodeGymOOP\obj\Debug\net8.0\CodeGymOOP.sourcelink.json
+D:\CodeGym\CodeGymProject\CodeGymOOP\CodeGymOOP\obj\Debug\net8.0\CodeGymOOP.dll
+D:\CodeGym\CodeGymProject\CodeGymOOP\CodeGymOOP\obj\Debug\net8.0\refint\CodeGymOOP.dll
+D:\CodeGym\CodeGymProject\CodeGymOOP\CodeGymOOP\obj\Debug\net8.0\CodeGymOOP.pdb
+D:\CodeGym\CodeGymProject\CodeGymOOP\CodeGymOOP\obj\Debug\net8.0\CodeGymOOP.genruntimeconfig.cache
+D:\CodeGym\CodeGymProject\CodeGymOOP\CodeGymOOP\obj\Debug\net8.0\ref\CodeGymOOP.dll

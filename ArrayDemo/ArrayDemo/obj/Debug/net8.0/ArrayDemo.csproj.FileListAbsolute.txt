@@ -1,0 +1,15 @@
+D:\CodeGym\CodeGymProject\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.exe
+D:\CodeGym\CodeGymProject\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.deps.json
+D:\CodeGym\CodeGymProject\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.runtimeconfig.json
+D:\CodeGym\CodeGymProject\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.dll
+D:\CodeGym\CodeGymProject\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.pdb
+D:\CodeGym\CodeGymProject\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeGym\CodeGymProject\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.AssemblyInfoInputs.cache
+D:\CodeGym\CodeGymProject\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.AssemblyInfo.cs
+D:\CodeGym\CodeGymProject\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.csproj.CoreCompileInputs.cache
+D:\CodeGym\CodeGymProject\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.sourcelink.json
+D:\CodeGym\CodeGymProject\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.dll
+D:\CodeGym\CodeGymProject\ArrayDemo\ArrayDemo\obj\Debug\net8.0\refint\ArrayDemo.dll
+D:\CodeGym\CodeGymProject\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.pdb
+D:\CodeGym\CodeGymProject\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.genruntimeconfig.cache
+D:\CodeGym\CodeGymProject\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ref\ArrayDemo.dll

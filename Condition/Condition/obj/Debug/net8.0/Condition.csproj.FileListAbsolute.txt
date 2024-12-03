@@ -1,0 +1,15 @@
+D:\CodeGym\CodeGymProject\Condition\Condition\bin\Debug\net8.0\Condition.exe
+D:\CodeGym\CodeGymProject\Condition\Condition\bin\Debug\net8.0\Condition.deps.json
+D:\CodeGym\CodeGymProject\Condition\Condition\bin\Debug\net8.0\Condition.runtimeconfig.json
+D:\CodeGym\CodeGymProject\Condition\Condition\bin\Debug\net8.0\Condition.dll
+D:\CodeGym\CodeGymProject\Condition\Condition\bin\Debug\net8.0\Condition.pdb
+D:\CodeGym\CodeGymProject\Condition\Condition\obj\Debug\net8.0\Condition.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeGym\CodeGymProject\Condition\Condition\obj\Debug\net8.0\Condition.AssemblyInfoInputs.cache
+D:\CodeGym\CodeGymProject\Condition\Condition\obj\Debug\net8.0\Condition.AssemblyInfo.cs
+D:\CodeGym\CodeGymProject\Condition\Condition\obj\Debug\net8.0\Condition.csproj.CoreCompileInputs.cache
+D:\CodeGym\CodeGymProject\Condition\Condition\obj\Debug\net8.0\Condition.sourcelink.json
+D:\CodeGym\CodeGymProject\Condition\Condition\obj\Debug\net8.0\Condition.dll
+D:\CodeGym\CodeGymProject\Condition\Condition\obj\Debug\net8.0\refint\Condition.dll
+D:\CodeGym\CodeGymProject\Condition\Condition\obj\Debug\net8.0\Condition.pdb
+D:\CodeGym\CodeGymProject\Condition\Condition\obj\Debug\net8.0\Condition.genruntimeconfig.cache
+D:\CodeGym\CodeGymProject\Condition\Condition\obj\Debug\net8.0\ref\Condition.dll
