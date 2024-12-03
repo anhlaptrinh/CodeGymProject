@@ -1,0 +1,15 @@
+D:\CodeGym\CodeGymProject\StopWatchOOP\StopWatchOOP\bin\Debug\net8.0\StopWatchOOP.exe
+D:\CodeGym\CodeGymProject\StopWatchOOP\StopWatchOOP\bin\Debug\net8.0\StopWatchOOP.deps.json
+D:\CodeGym\CodeGymProject\StopWatchOOP\StopWatchOOP\bin\Debug\net8.0\StopWatchOOP.runtimeconfig.json
+D:\CodeGym\CodeGymProject\StopWatchOOP\StopWatchOOP\bin\Debug\net8.0\StopWatchOOP.dll
+D:\CodeGym\CodeGymProject\StopWatchOOP\StopWatchOOP\bin\Debug\net8.0\StopWatchOOP.pdb
+D:\CodeGym\CodeGymProject\StopWatchOOP\StopWatchOOP\obj\Debug\net8.0\StopWatchOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeGym\CodeGymProject\StopWatchOOP\StopWatchOOP\obj\Debug\net8.0\StopWatchOOP.AssemblyInfoInputs.cache
+D:\CodeGym\CodeGymProject\StopWatchOOP\StopWatchOOP\obj\Debug\net8.0\StopWatchOOP.AssemblyInfo.cs
+D:\CodeGym\CodeGymProject\StopWatchOOP\StopWatchOOP\obj\Debug\net8.0\StopWatchOOP.csproj.CoreCompileInputs.cache
+D:\CodeGym\CodeGymProject\StopWatchOOP\StopWatchOOP\obj\Debug\net8.0\StopWatchOOP.sourcelink.json
+D:\CodeGym\CodeGymProject\StopWatchOOP\StopWatchOOP\obj\Debug\net8.0\StopWatchOOP.dll
+D:\CodeGym\CodeGymProject\StopWatchOOP\StopWatchOOP\obj\Debug\net8.0\refint\StopWatchOOP.dll
+D:\CodeGym\CodeGymProject\StopWatchOOP\StopWatchOOP\obj\Debug\net8.0\StopWatchOOP.pdb
+D:\CodeGym\CodeGymProject\StopWatchOOP\StopWatchOOP\obj\Debug\net8.0\StopWatchOOP.genruntimeconfig.cache
+D:\CodeGym\CodeGymProject\StopWatchOOP\StopWatchOOP\obj\Debug\net8.0\ref\StopWatchOOP.dll
