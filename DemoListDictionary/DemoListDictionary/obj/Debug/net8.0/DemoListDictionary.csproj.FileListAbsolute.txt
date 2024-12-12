@@ -1,0 +1,15 @@
+D:\CodeGym\CodeGymProject\DemoListDictionary\DemoListDictionary\bin\Debug\net8.0\DemoListDictionary.exe
+D:\CodeGym\CodeGymProject\DemoListDictionary\DemoListDictionary\bin\Debug\net8.0\DemoListDictionary.deps.json
+D:\CodeGym\CodeGymProject\DemoListDictionary\DemoListDictionary\bin\Debug\net8.0\DemoListDictionary.runtimeconfig.json
+D:\CodeGym\CodeGymProject\DemoListDictionary\DemoListDictionary\bin\Debug\net8.0\DemoListDictionary.dll
+D:\CodeGym\CodeGymProject\DemoListDictionary\DemoListDictionary\bin\Debug\net8.0\DemoListDictionary.pdb
+D:\CodeGym\CodeGymProject\DemoListDictionary\DemoListDictionary\obj\Debug\net8.0\DemoListDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeGym\CodeGymProject\DemoListDictionary\DemoListDictionary\obj\Debug\net8.0\DemoListDictionary.AssemblyInfoInputs.cache
+D:\CodeGym\CodeGymProject\DemoListDictionary\DemoListDictionary\obj\Debug\net8.0\DemoListDictionary.AssemblyInfo.cs
+D:\CodeGym\CodeGymProject\DemoListDictionary\DemoListDictionary\obj\Debug\net8.0\DemoListDictionary.csproj.CoreCompileInputs.cache
+D:\CodeGym\CodeGymProject\DemoListDictionary\DemoListDictionary\obj\Debug\net8.0\DemoListDictionary.sourcelink.json
+D:\CodeGym\CodeGymProject\DemoListDictionary\DemoListDictionary\obj\Debug\net8.0\DemoListDictionary.dll
+D:\CodeGym\CodeGymProject\DemoListDictionary\DemoListDictionary\obj\Debug\net8.0\refint\DemoListDictionary.dll
+D:\CodeGym\CodeGymProject\DemoListDictionary\DemoListDictionary\obj\Debug\net8.0\DemoListDictionary.pdb
+D:\CodeGym\CodeGymProject\DemoListDictionary\DemoListDictionary\obj\Debug\net8.0\DemoListDictionary.genruntimeconfig.cache
+D:\CodeGym\CodeGymProject\DemoListDictionary\DemoListDictionary\obj\Debug\net8.0\ref\DemoListDictionary.dll
